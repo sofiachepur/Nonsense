@@ -1,0 +1,70 @@
+[
+  {
+    "bg2":"media/1.svg"
+  },
+  {
+    "photo": "media/2.svg",
+    "bg": "#252525",
+    "desc": "T-Shirt",
+    "date": "Spring 25’"
+  },
+  {
+   "bg": "black",
+    "link": "Google Maps Link",
+    "href": "https://www.google.com/",
+    "icon": "media/arrow-up-right.svg"
+  },
+  {
+    "photo": "media/3.svg",
+    "bg": "#1B234B",
+    "desc": "Totes",
+    "date": "Spring 25’"
+  },
+  {
+    "bg": "#FFFFFF",
+    "name": "Clothing"
+  },
+  {
+    "bg2":"media/6.png"
+  },
+  {
+    "bg": "#F8EDDE",
+    "name": "Zines"
+  },
+  {
+    "photo": "media/4.svg",
+    "bg": "#4F1212",
+    "desc": "Mixtapes",
+    "date": "Spring 25’"
+  },
+  {
+    "bg": "#969F7D",
+    "name": "Live Music"
+  },
+  {
+    "bg2": "media/10.svg",
+    "link": "Follow Us on Substack",
+    "href": "https://www.google.com/",
+    "icon": "media/arrow-up-right.svg"
+  },
+  {
+    "bg": "#D3C8BA",
+    "name": "Records"
+  },
+  {
+    "bg": "#000000",
+    "link": "Browse the Instagram",
+    "href": "https://www.google.com/",
+    "icon": "media/arrow-up-right.svg"
+  },
+  {
+    "bg": "#F8EDDE",
+    "name": "Records"
+  },
+  {
+    "photo": "media/7.svg",
+    "bg": "#EEA6A6",
+    "desc": "Tees",
+    "date": "Spring 25’"
+  }
+]
